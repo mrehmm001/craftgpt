@@ -1,0 +1,8 @@
+name: CraftGPT
+version: ${project.version}
+main: craftgpt.craftgpt.CraftGPT
+api-version: 1.20
+commands:
+  chat:
+    usage: "/<command> message"
+    description: "chat to system"
